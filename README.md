@@ -39,3 +39,10 @@ The goal is to learn the edit/add/commit/push workflow and realize it isn't that
 
 ### Here is me playing around with markdown
 [I'm an inline-style link](https://www.google.com)
+
+
+
+Here is a fun tahle
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
